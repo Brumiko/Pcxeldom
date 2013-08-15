@@ -15,6 +15,8 @@ namespace Pcxeldom.Netduino
     {
         #region variables & constants
 
+        // TESTING GIT(HUB)...
+
         // TODO: read values from microSD.
 
         const string host = "api.pachube.com";
